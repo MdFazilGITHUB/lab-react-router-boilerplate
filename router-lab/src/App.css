@@ -1,0 +1,13 @@
+body{
+    margin:  3% auto;
+    width: 90%;
+    background-color: rgb(56, 52, 52);
+    color: white ;
+    text-align: center;
+}
+
+.navbar{
+    padding: 20px;
+    background-color: rgb(111, 169, 255);
+    border: 5px solid rgb(255, 255, 255);
+}
